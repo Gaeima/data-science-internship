@@ -1,20 +1,21 @@
-# Unemployment Analysis with Python
+# Sales Prediction Using Python
 
 ## Objective
-Analyze unemployment trends in India using Python.
+Predict product sales using Machine Learning.
 
-## Libraries
+## Dataset
+Advertising Dataset
+
+## Libraries Used
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
+- Scikit-learn
 
-## Steps
-- Load Dataset
-- Clean Data
-- Exploratory Data Analysis
-- Visualization
-- Conclusion
+## Algorithm
+Linear Regression
 
 ## Result
-Successfully analyzed unemployment rates and visualized state-wise and monthly trends.
+R² Score: 0.90
+The model predicts sales based on TV, Radio and Newspaper advertising budgets.
